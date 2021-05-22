@@ -1,2 +1,0 @@
-this is b.txt file
-This line is being modified in local git
