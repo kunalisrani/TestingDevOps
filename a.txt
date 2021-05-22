@@ -1,2 +1,0 @@
-this is a.txt file
-This line is being modified in remote github
